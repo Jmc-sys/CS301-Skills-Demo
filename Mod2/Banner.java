@@ -9,7 +9,7 @@ public class Banner {
 		
 		double x = 0.0;
 		double y = 100.0;
-		int rev = 1;
+
 		while(true){
 			StdDraw.clear();
 			StdDraw.text(x, y, s);
